@@ -1,5 +1,3 @@
-opencv
-
 // For C++
 *.o
 *.out
@@ -7,3 +5,4 @@ opencv
 
 // VS Code
 .vscode
+opencv
