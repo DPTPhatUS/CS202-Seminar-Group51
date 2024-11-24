@@ -16,7 +16,7 @@ find_package(OpenCV 4 REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
 
 # Add the main executable
-add_executable(${PROJECT_NAME} main.cpp)
+add_executable(${PROJECT_NAME} proxy.cpp)
 
 # Link libraries
 target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
