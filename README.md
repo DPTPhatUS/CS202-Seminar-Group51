@@ -47,4 +47,4 @@ The Decorator Pattern allows behavior to be added to individual objects dynamica
 To run this project locally, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/design-patterns.git
+git clone https://github.com/DPTPhatUS/CS202-Seminar-Group51.git
